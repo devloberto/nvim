@@ -8,3 +8,4 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 ## custom
 
 - theme: catppuccin-macchiato
+- terminal shell: zsh

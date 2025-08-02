@@ -5,7 +5,7 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
-## custom
+## 🛠️ custom
 
-- theme: catppuccin-macchiato
-- terminal shell: zsh
+- theme: [catppuccin-macchiato](https://github.com/catppuccin/nvim)
+- terminal shell: [zsh](https://zsh.sourceforge.io/)

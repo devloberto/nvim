@@ -3,3 +3,4 @@
 -- Add any additional options here
 
 LazyVim.terminal.setup("zsh")
+vim.o.clipboard = "unnamedplus"
